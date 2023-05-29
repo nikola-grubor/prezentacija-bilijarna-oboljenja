@@ -31,7 +31,7 @@ Sposobnost prepoznavanja čestih oboljenja žučne kese i žučnih vodova.
 ## Klinični sindromi žučnog kamenja {.scrollable .smaller}
 
 | Sindrom                   | Mehanizam                                                                                                                            |
-|------------------|------------------------------------------------------|
+|-------------------|-----------------------------------------------------|
 | Simptomatska holelitijaza | Prolazna opstrukcija → visceralno istezanje → bol                                                                                    |
 | Akutni holecistitis       | Perzistentna opstrukcija → visceralno istezanje → zapaljenje → porast bakterija → infekcija ŽK → zapaljenje parijetalnog peritoneuma |
 | Holedoholitijaza          | Opstrukcija choledochusa                                                                                                             |
@@ -97,7 +97,7 @@ Somatski
 ## Holelitijaza ili holecistitis? {.smaller}
 
 |                       | Simptomatska holelitijaza   | Akutni holecistitis                                                                               |
-|-----------------|-----------------|--------------------------------------|
+|------------------|------------------|-------------------------------------|
 | **Anamneza**          | Prolazan bol                | Konstantan bol \>6h, često sa mučninom i povraćanjem                                              |
 | **Fizikalni pregled** | Blago osetljiv na palpaciju | Murphyjev znak                                                                                    |
 | **Vitalni znaci**     | Normalni                    | T°, Fr \> 100                                                                                     |

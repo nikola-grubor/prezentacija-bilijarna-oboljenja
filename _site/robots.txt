@@ -1,1 +1,1 @@
-Sitemap: https://08274593-50fd-4777-97dd-764da47716f0.netlify.app/sitemap.xml
+Sitemap: https://nikola-grubor.quarto.pub/cesta-bilijarna-oboljenja/sitemap.xml
