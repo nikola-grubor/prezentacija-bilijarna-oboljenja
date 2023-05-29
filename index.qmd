@@ -1,0 +1,229 @@
+---
+title: "Česta bilijarna oboljenja"
+author: "Dr Nikola N. Grubor"
+date: last-modified
+date-format: "DD.MM.YYYY."
+lang: sr
+---
+
+# Pregled predavanja {.smaller}
+
+::: callout-tip
+### Cilj
+
+Sposobnost prepoznavanja čestih oboljenja žučne kese i žučnih vodova.
+:::
+
+::: columns
+::: {.column width="40%"}
+-   Postprandijalni bol u gornjem desnom kvadrantu
+-   Postprandijalni bol u gornjem desnom kvadrantu + temperatura + mučnina + povraćanje
+-   Bol u epigastrijumu
+:::
+
+::: {.column width="60%"}
+![Sistemi podele abdomena](quadrant.png)
+:::
+:::
+
+# Postprandijalni bol
+
+## Klinični sindromi žučnog kamenja {.scrollable .smaller}
+
+| Sindrom                   | Mehanizam                                                                                                                            |
+|------------------|------------------------------------------------------|
+| Simptomatska holelitijaza | Prolazna opstrukcija → visceralno istezanje → bol                                                                                    |
+| Akutni holecistitis       | Perzistentna opstrukcija → visceralno istezanje → zapaljenje → porast bakterija → infekcija ŽK → zapaljenje parijetalnog peritoneuma |
+| Holedoholitijaza          | Opstrukcija choledochusa                                                                                                             |
+| Holangitis                | Opstrukcija choledochusa → porast bakterija → infekcija bilijarnog stabla → ascedentna infekcija                                     |
+| Akutni pankreatitits      | Opstrukcija choledochusa i ductusa pancreaticusa → autodigestija                                                                     |
+| Opstrukcija tankog creva  | Erozija velikog kamena u duodenum → opstrukcija                                                                                      |
+| Mirizzijev sindrom[^1]    | Veliki kamen opstruira ductus cysticus → inflamatorna kompresija i ductusa hepaticusa                                                |
+
+: Najčešći sindromi izazvani žučnim kamenjem. {#tbl-sindromi}
+
+[^1]: Kamen zaglavljen u distalnom cističnom vodu vrši pritisak i komprimuje ductus choledochus.
+
+## Bol gornjeg desnog kvadranta? {.smaller}
+
+| Simptomatska holelitijaza | Akutni kalkulozni holecistitis                    | Holedoholitijaza |
+|--------------------|----------------------------------|------------------|
+| Bol nakon masnih obroka   | Bol radira, skapularni bol, perzistentan (\>4-6h) | Bol uz žuticu    |
+| Ženski pol                | Fr \> 100                                         |                  |
+| Gojaznost                 | Murphyjev znak[^2]                                |                  |
+
+: Tri najčešće dijagnoze nakon postprandijalnog bola i asocirani simptomi. {#tbl-diff1}
+
+[^2]: Pacijent udahne. Pri izdisaju i palpaciji gornjeg desnog kvadranta provocira se bol ili nagli prekid disanja. Senzitivnost 97%, specifičnost 48%.
+
+## Anamneza i pregled
+
+::: callout-note
+Najverovatnija dijagnoza se poklapa sa što više simptoma i znakova.
+:::
+
+-   Pacijenti su `izgledaju bolesno`, febrilni su, tahikardični i leže mirno
+-   Voljni i nevoljni defans
+-   Murphyjev znak
+
+## Karakteristike bola {.smaller}
+
+::: columns
+::: {.column width="50%"}
+Visceralni
+
+-   Inflamacija, ishemija, distenzija
+-   Tup, pulsirajući, **težak za lokalizaciju**
+-   Prenešen bol (skapularni)
+
+::: callout-note
+`Bilijarna kolika`, `Distenzija kolona`, `...`.
+:::
+:::
+
+::: {.column width="50%"}
+Somatski
+
+-   Iritacija peritoneuma (sadržaj / palpacija)
+-   Oštar, **lokalizovan**
+-   Lateralizacija
+
+::: callout-note
+`Akutni holecistitis`, `Apendicitis`, `...`.
+:::
+:::
+:::
+
+## Holelitijaza ili holecistitis? {.smaller}
+
+|                       | Simptomatska holelitijaza   | Akutni holecistitis                                                                               |
+|-----------------|-----------------|--------------------------------------|
+| **Anamneza**          | Prolazan bol                | Konstantan bol \>6h, često sa mučninom i povraćanjem                                              |
+| **Fizikalni pregled** | Blago osetljiv na palpaciju | Murphyjev znak                                                                                    |
+| **Vitalni znaci**     | Normalni                    | T°, Fr \> 100                                                                                     |
+| **Leukociti**         | Normalni                    | ↑↑↑                                                                                               |
+| **Ultrazvuk**         | Kamenje                     | Kamenje + zadebljanje zida \> 4mm (@fig-zid), periholecistična tečnost, ehografski Murphyjev znak |
+
+## 
+
+![Zadebljanje zida žučne kese.[^3]](zucna%20kesa%20zid.jpg){#fig-zid}
+
+[^3]: Kimura Y et al. Japanese Society of Hepato-Biliary-Pancreatic Surgery and Springer 2012, Free Access
+
+## 
+
+::: columns
+::: {.column width="30%"}
+-   "Usled pneumatizacije creva nemoguće pregledati žučnu kesu."
+:::
+
+::: {.column width="70%"}
+![Emfizematozni holecistitis[^5]](emfizem.png){#fig-empf}
+:::
+:::
+
+[^5]: Case courtesy of Craig Hacking, Radiopaedia.org, rID: 35744
+
+## 
+
+::: columns
+::: {.column width="20%"}
+-   Najčešće fundus
+-   Periholecistični apces
+-   Retko, perforacija peritoneuma
+:::
+
+::: {.column width="80%"}
+![Perforacija žučne kese[^7]](perforation.jpg){#fig-perfor}
+:::
+:::
+
+[^7]: Case courtesy of Chris O'Donnell, Radiopaedia.org, rID: 20518
+
+## Tipovi kamenja {.smaller}
+
+-   Holesterolski (genetika, sredina)
+-   Kamenje crnog pigmenta (hemoliza)
+-   Kamenje smeđeg pigmenta (infekcije/infestacije)
+-   Mešano kamenje
+-   Mikrolitijaza (mulj/šljunak/pesak)
+
+::: callout-important
+### Mikrolitijazu je teško dokazati!
+
+Određen broj `idiopatskog pankreatitisa` (7-79%), `disfunkcija sfinktera` (25-60%) i `neobjašnjenog bilijarnog bola` (83%) se može povezati sa mikrolitijazom. Međutim, mikroskopiju žuči radi mali broj klinika.
+:::
+
+## Dijagnostika: Imidžing
+
+```{mermaid}
+flowchart TD
+  A[Simptomi i znakovi]
+  A --> C{Ultrazvuk}
+  C -- 5% --> C1{"Negativan"}
+  C --> C2["Zid >4 mm + periholecistična tečnost ± kamen"]
+  C --> C3{{"Emfizematozni holecistitis¹"}}
+  C1 --> C11["≤1 mm kamen / mali broj"]
+  C1 --> C12{{Akalkulozni holecistitis}}
+  C2 --> E{{Akutni holecistitis}}
+  C11 --> D[HIDA]
+  C12 --> D
+```
+
+::: footer
+1.  *Emfizematozni holecistitis* izazvan je sekundarnom infekcijom mikroorganizmima koji produkuju gas (*Clostridium welchii*) (@fig-empf).
+
+    U 10% slučajeva *Perforacija* sledi emfizematozni holecistitis; javlja se nakon nekroze zida žučne kese (@fig-perfor).
+:::
+
+## Dijagnostika: Laboratorija
+
+```{mermaid}
+flowchart TD
+  A[Simptomi i znakovi] --> B[AST, ALT, GGT, ALP, Lipaza]
+  B -->  B1["↑"]
+  B1 --> B11{{Akutni holecistitis}}
+  B -->  B2["ALP, GGT >> AST, ALT"]
+  B2 --> B22[Holestaza, opstrukcija, holedoholitijaza]
+  B --> B3["AST, ALT >> ALP, GGT"]
+  B3 --> B33{{Primarna hepatocelularna}}
+  B --> B4{{Pankreatitis}}
+```
+
+-   Levostrana leukocitoza
+-   Ukupni bilirubin i ALP rastu kod komplikacija
+
+## Terapijski algoritam
+
+```{mermaid}
+flowchart TD
+  A[Akutni kalkulozni holecistitis] --> B[Prijem, tečnost, NSAIL, antibiotici, UZ]
+  B -->  B1{{Nekroza, perforacija, emfizematozna žk}}
+  B1 -- Da --> C["Urgentna holecistektomija"]
+  B1 -- Ne --> D{{"Da li je pacijent hirurški kandidat?"}}
+  D -- Jeste --> D1["Laparoskopija"]
+  D -- Nije --> D2{{"Kritičan ili septičan?"}}
+  D2 -- Ne --> D3["Antibiotici; pregled nakon 1-3 dana"]
+  D2 -- Da --> D4["Perkutana/endoskopska drenaža"]
+  D4 -- Poboljšanje --> D5["Elektivna hirurgija"]
+  D4 -- Pogoršanje --> D6["Urgentna hirurgija"]
+  
+```
+
+::: footer
+:::
+
+## Sindrom postholecistektomije (PCS) {.smaller}
+
+::: callout-tip
+### Definicija
+
+Ponovljenji bol u gornjem desnom kvadrantu ili u epigastrijumu koji nastaje **nedeljama** ili **mesecima** nakon holecistektomije.
+:::
+
+| Moguća etiologija                        | Karakteristike                                                     |
+|---------------------------|---------------------------------------------|
+| Zaostao kamen u ductusu choledochusu     | Može izazvati pankreatitits, holangitis, ili bilijarnu opstrukciju |
+| Zaostao kamen u slepom ductusu cysticusu | Pacijenti sa anatomski dužim ductusom                              |
+| Disfunkcija Oddijevog sfinktera          | Bilijarna kolika, poremećaj AST/ALT, dilatiran ductus              |
+| Ostalo                                   | Gastritis, peptički ulkus                                          |

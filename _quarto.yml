@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Česta bilijarna oboljenja"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format: 
+  revealjs:
+    embed-resources: false
+    theme: default
+    logo: logo.png
+    css: logo.css
+    footer: "Medicinski Fakultet, Univerzitet u Beogradu"
+
+execute:
+  freeze: auto
+
+editor: visual
+
